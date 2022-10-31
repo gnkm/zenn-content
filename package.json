@@ -19,8 +19,5 @@
   "homepage": "https://github.com/gnkm/zenn-content#readme",
   "dependencies": {
     "zenn-cli": "^0.1.131"
-  },
-  "devDependencies": {
-    "textlint": "^12.2.2"
   }
 }
